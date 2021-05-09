@@ -1,0 +1,11 @@
+github.com/TheTitanrain/w32 v0.0.0-20180517000239-4f5cfb03fabf/go.mod h1:peYoMncQljjNS6tZwI9WVyQB3qZS6u79/N3mBOcnd3I=
+github.com/TheTitanrain/w32 v0.0.0-20200114052255-2654d97dbd3d h1:2xp1BQbqcDDaikHnASWpVZRjibOxu7y9LhAv04whugI=
+github.com/TheTitanrain/w32 v0.0.0-20200114052255-2654d97dbd3d/go.mod h1:peYoMncQljjNS6tZwI9WVyQB3qZS6u79/N3mBOcnd3I=
+github.com/akakou-hobby/uree-package v0.0.0-20210508134638-5c6fea3fe1f5 h1:2HMGRCMbsstHNs3JjAp0VlDoWms1KVqEbNabf/dXqEM=
+github.com/akakou-hobby/uree-package v0.0.0-20210508134638-5c6fea3fe1f5/go.mod h1:k89Qmsy8Q9QJ/X/wDov5ZMxskwrEvsS/alxnGILhqOY=
+github.com/akakou-hobby/uree-package v0.0.0-20210508145216-ce6fbda685e6 h1:PNey2UhlQik0xAhP3+VV/VXhn0xqDHRL7KT64Qs9ayA=
+github.com/akakou-hobby/uree-package v0.0.0-20210508145216-ce6fbda685e6/go.mod h1:k89Qmsy8Q9QJ/X/wDov5ZMxskwrEvsS/alxnGILhqOY=
+github.com/akakou-hobby/uree-package v0.0.0-20210509023859-31fef36e9768 h1:pQImujVSEi+d1/aG7DeprgEYC3MU6uJiOVgkRbIrCMU=
+github.com/akakou-hobby/uree-package v0.0.0-20210509023859-31fef36e9768/go.mod h1:k89Qmsy8Q9QJ/X/wDov5ZMxskwrEvsS/alxnGILhqOY=
+github.com/sqweek/dialog v0.0.0-20200911184034-8a3d98e8211d h1:Chay1rwJnXxI27H+pzu7P81BKf647un9GOoRPTdXN18=
+github.com/sqweek/dialog v0.0.0-20200911184034-8a3d98e8211d/go.mod h1:/qNPSY91qTz/8TgHEMioAUc6q7+3SOybeKczHMXFcXw=
